@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace CoolGameTemp
 {
-    internal class Player
+    internal class Player : GameCharacter
     {
+        //fields
+        public int Lives = 3;
     }
 }

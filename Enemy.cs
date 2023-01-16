@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CoolGameTemp
 {
-    internal class Enemy
+    internal class Enemy : GameCharacter
     {
     }
 }
